@@ -4,13 +4,13 @@
     "day": "Saturday",
     "activity": "✈️ Fly to Biarritz Airport\\n🚌 Biarritz Airport → San Sebastián",
     "accommodation": "Pensión Riberas del Urumea",
-    "notes": "Flights: DUB 06:25-09:30, STN 12:25-15:20, BGY 15:40-17:30",
+    "notes": "✈️DUB-BIQ 06:25-09:30 ✈️STN-BIQ 12:25-15:20 ✈️BGY-BIQ 15:40-17:30",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
     "date": "17 May 2026",
     "day": "Sunday",
-    "activity": "🚂San Sebastián → Irún",
+    "activity": "🚂 San Sebastián → Irún",
     "accommodation": "Hotel Alcázar",
     "notes": "Train 13:30–14:05",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
@@ -20,7 +20,7 @@
     "day": "Monday",
     "activity": "🥾 16.9km Irún to Pasaia Donibane (5h30)",
     "accommodation": "Donibanea Hotel",
-    "notes": "5h walk",
+    "notes": "",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
@@ -28,23 +28,23 @@
     "day": "Tuesday",
     "activity": "🥾 10.5km Pasaia Donibane to San Sebastián (3h)",
     "accommodation": "Hotel Avenida",
-    "notes": "3h walk",
+    "notes": "",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
     "date": "20 May 2026",
     "day": "Wednesday",
-    "activity": "🥾 13km to Orio",
+    "activity": "🥾 13km San Sebastián to Orio",
     "accommodation": "Mirotza Rooms & Apartments",
-    "notes": "Walk to Orio",
+    "notes": "",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
     "date": "21 May 2026",
     "day": "Thursday",
-    "activity": "🥾 15.5km to Zumaia",
+    "activity": "🥾 15.5km Orio to Zumaia",
     "accommodation": "Talasoterapia Zelai",
-    "notes": "Walk to Zumaia",
+    "notes": "",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
@@ -52,7 +52,7 @@
     "day": "Friday",
     "activity": "🥾 Cliff Walk\n🏉 Bilbao Rugby (EPCR Challenge Cup)",
     "accommodation": "Telmo Apartment",
-    "notes": "Rugby KO 15:45 @ San Mamés",
+    "notes": "Rugby KO 21:00 @ San Mamés Stadium",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
@@ -60,14 +60,14 @@
     "day": "Saturday",
     "activity": "🏉 Bilbao Rugby (Investec Champions Cup)",
     "accommodation": "Telmo Apartment",
-    "notes": "Rugby KO 15:45 @ San Mamés",
+    "notes": "Rugby KO 15:45 @ San Mamés Stadium",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
     "date": "24 May 2026",
     "day": "Sunday",
-    "activity": "Zumaia → Biarritz Airport/Santander Airport ✈️ Fly home",
-    "notes": "BIQ-STN 16:10, BIQ-DUB 18:00, SDR-BLQ 16:45",
+    "activity": "🚂🚌Zumaia → Biarritz Airport/Santander Airport\\n✈️ Fly home",
+    "notes": "✈️BIQ-STN 16:10-17:05 ✈️BIQ-DUB 18:00-19:10 ✈️SDR-BLQ 16:45-18:50",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   }
 ]
