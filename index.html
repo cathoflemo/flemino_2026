@@ -68,7 +68,7 @@
         card.className = "day-card";
         card.innerHTML = `
           <div class="date">${d.day} ${d.date}</div>
-          <div class="activity">${d.activity}</div>
+          <div class="activity">${d.activity.replace(/\\n/g, '<br>')}</div>
           <div class="details" id="details-${i}">
             <div class="detail-row"><strong>🏠</strong> ${d.accommodation}</div>
             <div class="detail-row"><strong>📝</strong> ${d.notes}</div>
