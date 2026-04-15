@@ -66,15 +66,50 @@
         const card = document.createElement("div");
         card.className = "day-card";
         card.innerHTML = `
-          <div class="date">${d.day} ${d.date}</div>
-          <div class="activity">${d.activity.replace(/\\n/g, '<br>')}</div>
-          <div class="details" id="details-${i}">
-            <div class="detail-row"><strong>🏠</strong> <a href="${d.accommodation_map}" target="_blank" rel="noopener">Directions to accommodation →</a></div>
-            <div class="detail-row"><strong>🏠</strong> <a href="${d.accommodation_booking}" target="_blank" rel="noopener">Booking confirmation →</a></div>
-            <div class="detail-row"><strong>📝</strong> ${d.notes.replace(/\\n/g, '<br>')}</div>
-            <div class="detail-row"><strong>📁</strong> <a href="${d.drive_link}" target="_blank" rel="noopener">Open Google Drive Shared Folder →</a></div>
-          </div>
-        `;
+  <div class="date">${d.day} ${d.date}</div>
+  <div class="activity">${d.activity.replace(/\\n/g, '<br>')}</div>
+
+  <div class="details" id="details-${i}">
+
+    ${d.accommodation ? `
+      <div class="detail-row">
+        <strong>🏠</strong> ${d.accommodation}
+      </div>
+    ` : ""}
+
+    ${d.accommodation_map ? `
+      <div class="detail-row">
+        <strong>📍</strong>
+        <a href="${d.accommodation_map}" target="_blank" rel="noopener">
+          Directions to accommodation →
+        </a>
+      </div>
+    ` : ""}
+
+    ${d.accommodation_booking ? `
+      <div class="detail-row">
+        <strong>📄</strong>
+        <a href="${d.accommodation_booking}" target="_blank" rel="noopener">
+          Booking confirmation →
+        </a>
+      </div>
+    ` : ""}
+
+    ${d.notes ? `
+      <div class="detail-row">
+        <strong>📝</strong> ${d.notes.replace(/\\n/g, '<br>')}
+      </div>
+    ` : ""}
+
+    <div class="detail-row">
+      <strong>📁</strong>
+      <a href="${d.drive_link}" target="_blank" rel="noopener">
+        Open Google Drive Shared Folder →
+      </a>
+    </div>
+
+  </div>
+`;
         card.onclick = () => {
           document.querySelectorAll(".details").forEach(el => el.classList.remove("show"));
           document.querySelectorAll(".day-card").forEach(el => el.classList.remove("active"));
