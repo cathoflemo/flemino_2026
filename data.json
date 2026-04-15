@@ -3,7 +3,8 @@
     "date": "16 May 2026",
     "day": "Saturday",
     "activity": "✈️ Fly to Biarritz Airport\\n🚌 Biarritz Airport → San Sebastián\\n🏠 Pensión Riberas del Urumea",
-    "accommodation": "Directions to Pensión Riberas del Urumea",
+    "accommodation_map": "https://maps.app.goo.gl/xB5fTVxmiFRf4S5a6",
+    "accommodation_booking": "https://drive.google.com/file/d/15YXoD3mQwTHgIT8g-JfKGD-v7LK86V1o/view?usp=drive_link",
     "notes": "✈️DUB-BIQ 06:25-09:30 ✈️STN-BIQ 12:25-15:20 ✈️BGY-BIQ 15:40-17:30",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
