@@ -18,49 +18,50 @@
   {
     "date": "18 May 2026",
     "day": "Monday",
-    "activity": "🥾 Irún → Pasaia Donibane\\n(16.9km | 5h30)",
-    "accommodation": "Donibanea Hotel",
-    "notes": "",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🥾 Irún → Pasaia Donibane (16.9km | 5h30)\\n🏠 Donibanea Hotel",
+    "accommodation_map": "https://maps.app.goo.gl/UgEaVyPrfvjNcYJN8",
+    "accommodation_booking": "",
+    "notes": ""
   },
   {
     "date": "19 May 2026",
     "day": "Tuesday",
-    "activity": "🥾 Pasaia Donibane → San Sebastián\\n(10.5km | 3h)",
-    "accommodation": "Hotel Avenida",
-    "notes": "",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🥾 Pasaia Donibane → San Sebastián (10.5km | 3h)\\n🏠 Hotel Avenida",
+    "accommodation_map": "https://maps.app.goo.gl/obS1X8cuWe4TU6gy9",
+    "accommodation_booking": "https://drive.google.com/file/d/1lPMyoVSaZSPPnqTrdNP4ymcNR5MQYw8Q/view?usp=drive_link",
+    "notes": ""
   },
   {
     "date": "20 May 2026",
     "day": "Wednesday",
-    "activity": "🥾 San Sebastián → Orio\\n(13km | Xh)",
-    "accommodation": "Mirotza Rooms & Apartments",
-    "notes": "",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🥾 San Sebastián → Orio (13km | Xh)\\n🏠 Mirotza Rooms & Apartments",
+    "accommodation_map": "https://maps.app.goo.gl/AD7jns6HY7MFcTjGA",
+    "accommodation_booking": "https://drive.google.com/file/d/1kxXC5Cgns6anr-cOXyiZ3CRGDvebcu6K/view?usp=drive_link",
+    "notes": ""
   },
   {
     "date": "21 May 2026",
     "day": "Thursday",
-    "activity": "🥾 Orio → Zumaia\\n(15.5km | Xh)",
-    "accommodation": "Talasoterapia Zelai",
-    "notes": "",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🥾 Orio → Zumaia (15.5km | Xh)\\n🏠 Talasoterapia Zelai",
+    "accommodation_map": "https://maps.app.goo.gl/1AUVQ7WPdCRTPsS56",
+    "accommodation_booking": "https://drive.google.com/file/d/1mG3X0pGsLp1FuXaysHmZSyrAkz634ZLl/view?usp=drive_link",
+    "notes": ""
   },
   {
     "date": "22 May 2026",
     "day": "Friday",
-    "activity": "🥾 Cliff Walk (Xkm | Xh)\n🏉 Bilbao Rugby (EPCR Challenge Cup)",
-    "accommodation": "Telmo Apartment",
-    "notes": "Rugby KO 21:00 @ San Mamés Stadium",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🥾 Cliff Walk (Xkm | Xh)\\n🏉 Bilbao Rugby (EPCR Challenge Cup)\\n🏠 Telmo Apartment",
+    "accommodation_map": "https://maps.app.goo.gl/oRdpXAn2b5xsYZdj8",
+    "accommodation_booking": "https://drive.google.com/file/d/1iLyT4teVG8MwZyMtgt82oT5DxQQuxvEz/view?usp=drive_link",
+    "notes": "🏉 KO 21:00 @ San Mamés Stadium"
   },
   {
     "date": "23 May 2026",
     "day": "Saturday",
-    "activity": "🏉 Bilbao Rugby (Investec Champions Cup)",
-    "accommodation": "Telmo Apartment",
-    "notes": "Rugby KO 15:45 @ San Mamés Stadium",
+    "activity": "🏉 Bilbao Rugby (Investec Champions Cup)\\n🏠 Telmo Apartment",
+    "accommodation_map": "https://maps.app.goo.gl/oRdpXAn2b5xsYZdj8",
+    "accommodation_booking": "https://drive.google.com/file/d/1iLyT4teVG8MwZyMtgt82oT5DxQQuxvEz/view?usp=drive_link",
+    "notes": "🏉 KO 15:45 @ San Mamés Stadium",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
