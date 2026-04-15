@@ -6,15 +6,14 @@
     "accommodation_map": "https://maps.app.goo.gl/xB5fTVxmiFRf4S5a6",
     "accommodation_booking": "https://drive.google.com/file/d/15YXoD3mQwTHgIT8g-JfKGD-v7LK86V1o/view?usp=drive_link",
     "notes": "✈️DUB-BIQ 06:25-09:30 ✈️STN-BIQ 12:25-15:20 ✈️BGY-BIQ 15:40-17:30",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   },
   {
     "date": "17 May 2026",
     "day": "Sunday",
-    "activity": "🚂 San Sebastián → Irún",
-    "accommodation": "Hotel Alcázar",
-    "notes": "Train 13:30–14:05",
-    "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
+    "activity": "🚂 San Sebastián → Irún\\n🏠 Hotel Alcázar",
+    "accommodation_map": "https://maps.app.goo.gl/jTUcm2dQBAEinqCE6",
+    "accommodation_booking": "https://drive.google.com/file/d/140pfroD_okn3jfLFYH8bh0doBs_H2hGN/view?usp=drive_link",
+    "notes": "",
   },
   {
     "date": "18 May 2026",
