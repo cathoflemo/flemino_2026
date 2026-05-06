@@ -74,7 +74,15 @@
   <div class="activity">${d.activity.replace(/\\n/g, '<br>')}</div>
 
   <div class="details" id="details-${i}">
-
+    ${d.komoot_route ? `
+      <div class="detail-row">
+        <strong>🥾</strong>
+        <a href="${d.komoot_route}" target="_blank" rel="noopener">
+          Walking route (Komoot) →
+        </a>
+      </div>
+    ` : ""}
+    
     ${d.accommodation ? `
       <div class="detail-row">
         <strong>🏠</strong> ${d.accommodation}
@@ -95,15 +103,6 @@
         <strong>🏠</strong>
         <a href="${d.accommodation_booking}" target="_blank" rel="noopener">
           Booking confirmation →
-        </a>
-      </div>
-    ` : ""}
-
-    ${d.komoot_route ? `
-      <div class="detail-row">
-        <strong>🥾</strong>
-        <a href="${d.komoot_route}" target="_blank" rel="noopener">
-          Walking route (Komoot) →
         </a>
       </div>
     ` : ""}
