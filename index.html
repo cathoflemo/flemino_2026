@@ -99,6 +99,15 @@
       </div>
     ` : ""}
 
+    ${d.komoot_route ? `
+      <div class="detail-row">
+        <strong>🥾</strong>
+        <a href="${d.komoot_route}" target="_blank" rel="noopener">
+          Walking route (Komoot) →
+        </a>
+      </div>
+    ` : ""}
+
     ${d.notes ? `
       <div class="detail-row">
         <strong></strong> ${d.notes.replace(/\\n/g, '<br>')}
