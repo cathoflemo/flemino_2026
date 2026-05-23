@@ -62,7 +62,7 @@
   {
     "date": "23 May 2026",
     "day": "Saturday",
-    "activity": "🚂 Zumaia → Bilbao (09:29 - 11:21)\\n🏉 Investec Champions Cup (KO 15:45)\\n🚂 Bilbao → Zumaia (19:55 - 21:57) \\n🏠 Telmo Apartment (Zumaia)",
+    "activity": "🚂 Zumaia → Bilbao (09:29 - 11:21)\\n🏉 Investec Champions Cup (KO 15:45)\\n🚂 Bilbao → Zumaia (18:55 - 20:57) \\n🏠 Telmo Apartment (Zumaia)",
     "accommodation_map": "https://maps.app.goo.gl/oRdpXAn2b5xsYZdj8",
     "accommodation_booking": "https://drive.google.com/file/d/1iLyT4teVG8MwZyMtgt82oT5DxQQuxvEz/view?usp=drive_link",
     "notes": "🏉 San Mamés Stadium",
@@ -71,8 +71,7 @@
   {
     "date": "24 May 2026",
     "day": "Sunday",
-    "activity": "🚂 Zumaia → San Sebastián (40min)\\n🚌 San Sebastián → Biarritz/Santander Airport\\n✈️ Fly home",
-    "notes": "✈️ BIQ-STN 16:10-17:05 (FR 371)\\n✈️ BIQ-DUB 18:00-19:10 (FR 1983)\\n✈️ SDR-BLQ 16:45-18:50 (FR 3925)",
+    "activity": "🚂 Zumaia → San Sebastián (10:00 - 10:40)\\n🚌 San Sebastián → Biarritz Airport (12:25 - 13:05)\\n✈️ BIQ-STN 16:10-17:05 (FR 371)\\n✈️ BIQ-DUB 18:00-19:10 (FR 1983)\\n✈️ SDR-BLQ 16:45-18:50 (FR 3925)",
     "drive_link": "https://drive.google.com/drive/folders/1O5E3japUaGv0C71qhnx1yraF1743_xSn"
   }
 ]
